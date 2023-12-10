@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head><tittle> Parents </title></head>
+<body>
+<header>
+<a href="Main.html">
+<img src="img/logo.jpg" alt="Zulaikha-Personal Website">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="Main.html">Home</a></td>
+<td><a href="Biodata.html">Biodata</a></td>
+<td><a href="Parents.html">Parents</a></td>
+<td><a href="Hobby.html">Hobby</a></td>
+<td><a href="Skills.html">Skills</a></td>
+</tr>
+</table>
+</nav> 
+
+<hr>
+<h2> My Parents </h2>
+
+<p>
+Father Name : Ahmad Budiman
+</p>
+
+<p>
+Work as : Lecturer
+</p>
+
+<p>
+Mother Name : Nur Haslina
+</p>
+
+<p>
+Work as : House wife
+</p>
+
+<img src="img/parents.jpg" width="30%" height="60%">
+</body>
